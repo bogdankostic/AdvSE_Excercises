@@ -1,1 +1,1 @@
-# AdvSE_Excercises
+Excercise Submissions for Advanced Software Engineering.
